@@ -40,8 +40,8 @@ Ensure you have these libraries installed before proceeding with the installatio
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/hand-detection-ssd-mobilenet.git
-cd hand-detection-ssd-mobilenet
+git clone https://github.com/PG-9-9/Gesture-Net.git
+cd Gesture-Net
 ```
 
 2. Set up a virtual environment (optional but recommended):
